@@ -1,0 +1,33 @@
+
+table {font-family: 微軟正黑體, "Microsoft JhengHei" , "Arial" ;
+    font-size:16px;
+    font-weight:600;
+     color:#2e170c;
+    }
+td[colspan="2"]{color:#dd3131;font-weight:850;}
+
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#ffce00;
+}
+
+.redcircle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:white;
+    line-height:50px;
+    text-align:center;
+    background:red;
+}
